@@ -1,0 +1,4 @@
+1.declare two variables and operator.
+2.assigh values to the variables from the user
+3.take the operators like(+,-,*,/)
+4.use if case for performing the operations
